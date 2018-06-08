@@ -11,10 +11,7 @@ summary: "Communication channels to assist with FHIR API development."
 The FHIR profiles for this specification have been developed using the [FHIR Release STU3](https://www.hl7.org/fhir/STU3/index.html) specification.
 
 ## Questions and Comments ##
-For questions and comments about this documentation please email the <a href="mailto:interoperabilityteam@nhs.net?subject=Digital%20Child%20Health%20FHIR%20Specification">Interoperability Team</a>.
-
-## Healthy Child Record Standard ##
-The Digital Child Health Event Message Bundles have been developed to support the [Healthy Child Record Standard](https://theprsb.org/publications/healthy-child-record-standard) published by the [Professional Record Standards Body](https://theprsb.org/) (PRSB).
+For questions and comments about this documentation please email the <a href="mailto:interoperabilityteam@nhs.net?subject=Your%20Project%20Here%20FHIR%20Specification">Interoperability Team</a>.
 
 ## Glossary of Terms ##
 A glossary of terms used by NHS Digital specifications can be found on the [NHS Developer Network](https://developer.nhs.uk/library/glossary/).

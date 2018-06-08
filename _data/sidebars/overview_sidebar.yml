@@ -113,20 +113,20 @@ entries:
     output: web
     folderitems:
     - title: Overview
-      url: /test.html
+      url: /design.html
       output: web
-    - title: Patterns / Topology
-      url: /test_patterns.html
-      output: web
-    - title: Access
-      url: /test_access.html
-      output: web
-    - title: Security
-      url: /test_security.html
-      output: web
-    - title: Test Data
-      url: /test_data.html
-      output: web
+#    - title: Patterns / Topology
+#      url: /test_patterns.html
+#      output: web
+#    - title: Access
+#      url: /test_access.html
+#      output: web
+#    - title: Security
+#      url: /test_security.html
+#      output: web
+#    - title: Test Data
+#      url: /test_data.html
+#      output: web
 
   - title: Assure
     output: web
@@ -134,15 +134,15 @@ entries:
     - title: Overview
       url: /assure.html
       output: web
-    - title: Access
-      url: /assure_access.html
-      output: web
-    - title: Security
-      url: /assure_security.html
-      output: web
-    - title: End To End
-      url: /assure_end_to_end.html
-      output: web
+#    - title: Access
+#      url: /assure_access.html
+#      output: web
+#    - title: Security
+#      url: /assure_security.html
+#      output: web
+#    - title: End To End
+#      url: /assure_end_to_end.html
+#      output: web
 
   - title: Deploy
     output: web
@@ -150,12 +150,12 @@ entries:
     - title: Overview
       url: /deploy.html
       output: web
-    - title: Access
-      url: /deploy_access.html
-      output: web
-    - title: Security
-      url: /deploy_security.html
-      output: web
+#    - title: Access
+#      url: /deploy_access.html
+#      output: web
+#    - title: Security
+#      url: /deploy_security.html
+#      output: web
 
   - title: Help & Support
     output: web
