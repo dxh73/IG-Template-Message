@@ -1,5 +1,5 @@
 ---
-title: Template for explore. Replace with you page name
+title: Template for explore. Replace with your page name
 keywords:  messaging, bundles
 tags: [fhir,messaging]
 sidebar: foundations_sidebar
